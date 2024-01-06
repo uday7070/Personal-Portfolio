@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/frontend.jpg",
+      "title": "Front-End",
+      "description": "Proficient in modern web development technologies, including HTML5, CSS3,JavaScript and ReactjS to craft seamless and responsive web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/backend.png",
+      "title": "Back-End",
+      "description": "Proficient in backend programming languages such as  Java, Node.js and express.js to build scalable and efficient server applications."
+    },
+    {
+      "id": "3",
+      "src": "./img/ui.png",
+      "title": "UI & UX Design",
+      "description": "Experienced UI/UX designer with a passion for creating intuitive and visually appealing digital experiences."
+    },
+    {
+      "id": "4",
+      "src": "./img/db.jpg",
+      "title": "Database",
+      "description": "Skilled in database management, with expertise in SQL (e.g., MySQL) and NoSQL (e.g., MongoDB) databases for data storage and retrieval."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ecommerce Web application",
+      "description": "Designed a sophisticated e-commerce web application that facilitated seamless online shopping experiences for customers.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Food Delivery Web application",
+      "description": "Leveraged a user-focused mindset to create a user-friendly platform that streamlined food ordering and delivery processes.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Personal Portfolio website",
+      "description": "Designed and developed a personal portfolio website using React, a powerful JavaScript library for creating dynamic user interfaces.",
+      "link": "View In Github"
+    }
+  ]
+}
